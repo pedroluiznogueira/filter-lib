@@ -1,12 +1,20 @@
 {
-  "name": "extract",
-  "version": "1.0.0",
+  "name": "filter-url",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroluiznogueira/filter-lib.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedroluiznogueira/filter-lib/issues"
+  },
+  "homepage": "https://github.com/pedroluiznogueira/filter-lib#readme"
 }
