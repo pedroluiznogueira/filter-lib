@@ -14,11 +14,11 @@ Library that extracts info from a url. Used for examples such as a github repo u
 ## React Usage 
 
 <ul>
-  <li>import filter from 'filter/filter-url'</li>
+  <li>import filter from 'filter-url/filter'</li>
 </ul>
 
 ## Nodejs Usage
 
 <ul>
-  <li>const filter =  require('filter/filter-url')</li>
+  <li>const filter =  require('filter-url/filter')</li>
 </ul>
